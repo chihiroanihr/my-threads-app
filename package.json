@@ -23,8 +23,8 @@
     "autoprefixer": "10.4.15",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
-    "eslint": "8.48.0",
-    "eslint-config-next": "13.4.19",
+    "eslint": "9.39.2",
+    "eslint-config-next": "16.1.6",
     "lucide-react": "^0.274.0",
     "mongoose": "^8.9.5",
     "next": "14.2.30",
@@ -44,7 +44,7 @@
     "encoding": "^0.1.13",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-tailwindcss": "^3.13.0",
-    "eslint-plugin-unused-imports": "^3.0.0",
+    "eslint-plugin-unused-imports": "^4.3.0",
     "prettier": "^3.0.3"
   }
 }
